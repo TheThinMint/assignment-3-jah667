@@ -1,0 +1,14 @@
+---
+title: "Rachel"
+output: html_document
+date: "2023-02-13"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Rachel
+-  I’m 22
+- Marugame is my go-to food
+-  I love dancing
