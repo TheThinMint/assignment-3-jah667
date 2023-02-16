@@ -1,7 +1,6 @@
-
-name: All About Turtles
-output_dir: "."
+name: "Turtles All the Way Down"
 navbar:
+  title: "A Compilation of Cute Turtle Pictures and Information about Two Humans"
   left:
     - text: "Home"
       href: index.html
@@ -9,9 +8,10 @@ navbar:
       href: jessie.html
     - text: "Rachel"
       href: Rachel.html
+output_dir: "."
 output:
   html_document:
-    theme: cerulean
+    theme: darkly
     highlight: textmate
     toc: true 
-    toc_float: true
+    toc_float: true 
