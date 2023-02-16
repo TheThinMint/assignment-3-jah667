@@ -1,5 +1,5 @@
 
-
+name: All About Turtles
 output_dir: "."
 navbar:
   left:
@@ -8,4 +8,10 @@ navbar:
     - text: "Jessie"
       href: jessie.html
     - text: "Rachel"
-      href: rachel.html
+      href: Rachel.html
+output:
+  html_document:
+    theme: cerulean
+    highlight: textmate
+    toc: true 
+    toc_float: true
