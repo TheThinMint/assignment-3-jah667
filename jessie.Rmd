@@ -1,7 +1,4 @@
 ---
-title: "jessie"
-author: "Jessie Hughes"
-date: "2023-02-16"
 output: html_document
 ---
 
