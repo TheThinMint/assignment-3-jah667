@@ -1,7 +1,4 @@
 ---
-title: "index"
-author: "Jessie Hughes"
-date: "2023-02-16"
 output: html_document
 ---
 
@@ -9,10 +6,10 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# A Compilation of Cute Turtle Pictures
+# A Compilation of Cute Turtle Pictures and Information about Two Humans
 
 Jessie Hughes:  https://github.com/TheThinMint/assignment-3-jah667
 
-Rachel Bai: INSERT LINK HERE
+Rachel Bai: https://github.com/RachelBai0525/assignment-3-zb93
 
 ![](https://cdn.pixabay.com/photo/2016/11/29/08/31/animal-1868436__340.jpg)

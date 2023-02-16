@@ -16,3 +16,8 @@ knitr::opts_chunk$set(echo = TRUE)
 1. I once ate a dinner of pan-fried wasps
 2. I can knit and crochet
 3. I have a dog from Nepal 
+
+
+
+
+
